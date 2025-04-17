@@ -1,1 +1,2 @@
-# VLE-methane-ethane
+# Executive Summary
+This project aims to use the Peng-Robinson equation of state (EoS) to predict high-pressure, high-temperature phase equilibrium of methane-ethane mixture at 130.4 K and 190.9 K. The chosen mixture is methane-ethane at 130.4 K and 190.9 K. At 190.9 K, the prediction function converged but did not result in a good fit. At 130.4 K, the function did not converge. Overall, $\phi-\phi$ method using Peng-Robinson equation of state is not a good choice for this mixture.
